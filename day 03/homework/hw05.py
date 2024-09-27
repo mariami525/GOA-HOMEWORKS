@@ -1,0 +1,10 @@
+num1 = 2
+num2 = 5
+num3 = 8
+num4 = 10
+num5 = 30
+num6 = 45
+num7 = 54
+num8 = 67
+num9 = 78
+num10 = 89
